@@ -1,0 +1,6 @@
+[submodule "Live2dViewerEX"]
+	path = Live2dViewerEX
+	url = https://github.com/Sosarciel/SpineTS.git
+[submodule "SpineTS"]
+	path = SpineTS
+	url = https://github.com/Sosarciel/Live2dViewerEX.git

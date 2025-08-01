@@ -1,0 +1,10 @@
+{
+  "name": "sosarciel-live2dviewerex-module",
+  "workspaces":[
+    "SpineTS",
+    "Live2dViewerEX"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
