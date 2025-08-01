@@ -1,10 +1,13 @@
 {
   "name": "sosarciel-live2dviewerex-module",
-  "workspaces":[
+  "workspaces": [
     "SpineTS",
     "Live2dViewerEX"
   ],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "tsconfig-paths": "^4.2.0"
+  }
 }
